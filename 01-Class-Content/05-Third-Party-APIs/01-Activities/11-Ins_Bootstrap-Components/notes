@@ -1,0 +1,9 @@
+Components:
+offer prebult UI compoents like form elemtns, alert dialogues, and navigation bares
+
+Layout:
+Bootstraps built in grid system allows us to create responsive layouts
+
+utilities:
+offer a series of utility styles which we can use to adjust a number of CSS properties,
+margin, padding, colors, and sizing.
